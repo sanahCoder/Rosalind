@@ -1,4 +1,4 @@
-
+http://rosalind.info/problems/splc/
 import string
 DNA_CODON_TABLE = {
     'TTT': 'F',     'CTT': 'L',     'ATT': 'I',     'GTT': 'V',
