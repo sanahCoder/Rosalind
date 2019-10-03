@@ -1,3 +1,4 @@
+http://rosalind.info/problems/dna/
 count = [0]*4
 def countNucleotides(dnaSeq):
     for nuc in dnaSeq:
