@@ -66,7 +66,7 @@ def possible_protein_strings(s):
     return results
 
 
-
+http://rosalind.info/problems/orf/
 
 small_dataset = "AGCCATGTAGCTAACTCAGGTTACATGGGGATGACCCCGCGACTTGGATTAGAGTCTCTTTTGGAATAAGCCTGAATGATCCGAGTAGCATCTCAG"
 fh = open('/Users/saltside/Desktop/rosalind/rosalind_orf.txt', 'r')
