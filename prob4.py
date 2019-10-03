@@ -1,3 +1,5 @@
+http://rosalind.info/problems/fib/
+
 rabArray = [1,1]
 
 def getRabPairs(n,k):
