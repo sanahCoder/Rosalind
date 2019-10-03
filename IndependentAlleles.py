@@ -1,4 +1,4 @@
-#the probability of any parent producing offspring AaBb is 1/4
+http://rosalind.info/problems/lia/
 
 import operator as op
 from functools import reduce
