@@ -1,3 +1,5 @@
+http://rosalind.info/problems/fib/
+
 def fib(month, age):
 	generation = [0]*age
 	generation[0], generation[1] = 0,1
