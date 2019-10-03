@@ -1,4 +1,4 @@
-
+http://rosalind.info/problems/revc/
 
 def Compliment(seq):
     comp = ""
