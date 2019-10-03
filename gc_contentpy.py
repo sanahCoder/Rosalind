@@ -1,5 +1,5 @@
 
-
+http://rosalind.info/problems/gc/
 def gc_content(dnaArray, idArray):
     max_content = 0
     max_id = 0
