@@ -1,4 +1,4 @@
-
+http://rosalind.info/problems/subs/
     
 
 def motifSearch(dnaArray1):
