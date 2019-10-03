@@ -1,4 +1,4 @@
-
+http://rosalind.info/problems/grph/
 def graph(dnaArray, idArray):
     p = len(dnaArray[0])
     for j in range(0,len(dnaArray)):
