@@ -1,4 +1,4 @@
-
+http://rosalind.info/problems/rna/
 
 def transcribe(dnaSeq):
     rna = ""
