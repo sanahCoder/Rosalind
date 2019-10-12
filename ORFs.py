@@ -1,3 +1,6 @@
+
+http://rosalind.info/problems/orf/
+
 DNA_CODON_TABLE = {
     'TTT': 'F',     'CTT': 'L',     'ATT': 'I',     'GTT': 'V',
     'TTC': 'F',     'CTC': 'L',     'ATC': 'I',     'GTC': 'V',
@@ -66,7 +69,6 @@ def possible_protein_strings(s):
     return results
 
 
-http://rosalind.info/problems/orf/
 
 small_dataset = "AGCCATGTAGCTAACTCAGGTTACATGGGGATGACCCCGCGACTTGGATTAGAGTCTCTTTTGGAATAAGCCTGAATGATCCGAGTAGCATCTCAG"
 fh = open('/Users/saltside/Desktop/rosalind/rosalind_orf.txt', 'r')
